@@ -48,6 +48,7 @@ Data was preprocessed using Python and Claude AI before SQL analysis.
 - **SQLite** (via SQLiteOnline) — query execution
 - **Python + Claude AI** — data preprocessing and cleaning
 - **GitHub** — portfolio documentation
+- **Google Antigravity** — creating interactive website
 
 ---
 
